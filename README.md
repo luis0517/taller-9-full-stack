@@ -1,4 +1,4 @@
-<h1>Taller 9 Luis Hernando Lopez</h1>
+<h1>Taller 9 Luis Hernando Lopez Galindo</h1>
 
 <h2> Información</h2>
 
@@ -14,3 +14,18 @@
 
 <h2>PUNTO 3: CSS</H2>
 <img src="./public/images/CSS.png" alt="CSS">
+
+<h2>PUNTO 4: TITULOS</H2>
+<img src="./public/images/PUNTO4.png" alt="TITULOS">
+
+<h2>PUNTO 5: ESTILOS DE TEXTOS</H2>
+<img src="./public/images/PUNTO5.png" alt="ESTILOS DE TEXTO">
+
+<h2>PUNTO 6: ENLACES</H2>
+<img src="./public/images/PUNTO6.png" alt="ENLACES">
+
+<h2>PUNTO 7-8: NAVEGACION</H2>
+<img src="./public/images/PUNTO7-8.png" alt="PUNTO7-8">
+
+<h2>PUNTO 9: TABLAS</H2>
+<img src="./public/images/PUNTO9.png" alt="TABLA">

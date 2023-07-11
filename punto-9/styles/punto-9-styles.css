@@ -1,0 +1,30 @@
+body{
+    font-family: 'Jost';
+    margin: 50px 260px;
+    font-size: 15px;
+}
+table{
+    background-color: yellow;
+    border-top: 2px dashed black;
+    border-left: 2px dashed black;
+    border-right: 2px dashed black;
+    border-bottom: 2px dashed red;
+}
+
+th{
+    color: red;
+    font-style: italic;
+}
+
+.fila{
+    border-top: 2px dashed black; 
+    border-right: 2px dashed black;
+}
+.columna{
+    border-top: 2px dashed black;  
+}
+.fila__combinada{
+    border-top: 2px dashed black; 
+    text-align: justify;
+
+}

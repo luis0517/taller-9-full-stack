@@ -1,0 +1,36 @@
+p{
+    font-family: 'Jost';
+    margin: 50px 300px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 35px;
+}
+
+#Palabra__1{
+    color: #259702;
+    text-decoration: underline;
+}
+
+#Palabra__2{
+    color: red;
+    font-weight: bold;
+}
+
+#Palabra__3{
+    text-decoration-line: underline overline;
+    
+}
+#Palabra__4{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#Palabra__5{
+    color: blue;
+    font-weight: bold;
+}
+#Palabra__6{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}

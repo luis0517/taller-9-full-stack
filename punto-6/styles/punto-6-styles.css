@@ -1,0 +1,22 @@
+body{
+    font-family: 'Jost';
+    margin: 50px 300px;
+    line-height: 45px;
+}
+#link__1{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#link__2{
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#link__3{
+    font-size: 20px;
+    font-weight: bold;
+}
