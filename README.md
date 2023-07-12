@@ -5,6 +5,9 @@
 <p>Curso: full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
+<h2>Link Pagina Web</h2>
+
+<a href="https://luis0517.github.io/taller-9-full-stack/" target="_blank"> Link Pagina Web</a> 
 <h2> Punto 1: Link figma</h2>
 
 <a href="https://www.figma.com/file/H7ij12dN164IuQ60i66gsk/Luis_-_Ejercicio-FIGMA?type=design&node-id=8%3A215&mode=design&t=etO2Hj3o0jSskuDe-1" target="_blank">Link de Figma</a>
@@ -29,3 +32,4 @@
 
 <h2>PUNTO 9: TABLAS</H2>
 <img src="./public/images/PUNTO9.png" alt="TABLA">
+
